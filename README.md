@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Programming.me.png" width="250"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/feed/">
+  <a href="https://www.linkedin.com/in/weronikalutenko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <img src="https://img.shields.io/badge/weronika.lutenko@gmail.com-orange?style=for-the-badge&logo=mailr&logoColor=white" alt="Twitter Badge"/>

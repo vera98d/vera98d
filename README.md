@@ -1,11 +1,11 @@
  
 <div id="header" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Programming.me.png" width="250"/>
+  <img src="https://i.pinimg.com/originals/9a/68/71/9a68716efc331fcc84e3a4ce5f23d18d.png" width="250"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/weronikalutenko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <img src="https://img.shields.io/badge/weronika.lutenko@gmail.com-orange?style=for-the-badge&logo=mailr&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/weronika.lutenko@gmail.com-purple?style=for-the-badge&logo=mailr&logoColor=white" alt="Twitter Badge"/>
     <h1>Hi, I'm Weronika Luteńko, a beginner frontend developer</h1>
 </div>
 </div>

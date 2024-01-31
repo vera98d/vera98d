@@ -12,10 +12,10 @@
 
 
 ## About me
-- 💻 I’m self-learning frontend developer
-- 📖 I am a student of Computer Science in business at the Wrocław University of Economics
-- 🕮 I graduated from Electronics at the Wrocław University of Technology with the title of an engineer
-- 🤔 I am currently working as a Junior Developer, participating in creation of ERP systems using Microsoft Dynamics 365 software
+- 💻 I’m self-learning, continually developing and highlly motivated frontend developer
+- 📖 I am a graduate of Computer Science in business at the Wrocław University of Economics
+- 🕮 I aso graduated from Electronics at the Wrocław University of Technology with the title of an engineer
+- 🤔 I am currently working as a Junior Developer, participating in creating various applications and data analyses
 - 👨‍💻 I took part in a 6-month Coders Camp 2021 web programming course, organized by [CodersCrew](https://coderscrew.pl/) and [LiveChat](https://www.livechat.com/). During the course, with my team, I created web applications under mentor’s supervision. Project management was carried out using Scrum and Jira.
 - 🏠 Based in Wroclaw, Poland
 
